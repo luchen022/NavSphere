@@ -1559,6 +1559,14 @@
           "description": "基于cloudflare的图床 限制10G",
           "icon": "https://img.rednote.de5.net/logo.png",
           "enabled": true
+        },
+        {
+          "id": "site_1774542311917_4mscmyv0g",
+          "title": "MD5修改工具 - 文件指纹修改器",
+          "href": "https://modifymd5.luchen.de5.net/",
+          "description": "纯前端的MD5修改工具",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=modifymd5.luchen.de5.net",
+          "enabled": true
         }
       ],
       "subCategories": []
