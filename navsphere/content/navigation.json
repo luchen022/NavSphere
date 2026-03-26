@@ -1551,7 +1551,16 @@
       "icon": "FolderKanban",
       "description": "自己部署的一些小网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1774542140666_yrq1zkz9m",
+          "title": "密码管理器",
+          "href": "https://account.lca.de5.net/",
+          "description": "本地密码管理器，支持导入数据与导出数据",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=account.lca.de5.net",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
