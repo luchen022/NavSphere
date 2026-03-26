@@ -1567,6 +1567,14 @@
           "description": "纯前端的MD5修改工具",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=modifymd5.luchen.de5.net",
           "enabled": true
+        },
+        {
+          "id": "site_1774542353992_rl0ayq6dz",
+          "title": "游戏中心 - 经典游戏合集",
+          "href": "http://games.luchen.de5.net/",
+          "description": "经典小游戏",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=games.luchen.de5.net",
+          "enabled": true
         }
       ],
       "subCategories": []
