@@ -1553,11 +1553,11 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1774542140666_yrq1zkz9m",
-          "title": "密码管理器",
-          "href": "https://account.lca.de5.net/",
-          "description": "本地密码管理器，支持导入数据与导出数据",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=account.lca.de5.net",
+          "id": "site_1774542236832_typ69a66w",
+          "title": "Cloudflare ImgHub",
+          "href": "https://img.rednote.de5.net/",
+          "description": "基于cloudflare的图床 限制10G",
+          "icon": "https://img.rednote.de5.net/logo.png",
           "enabled": true
         }
       ],
