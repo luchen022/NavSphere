@@ -1575,6 +1575,14 @@
           "description": "经典小游戏",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=games.luchen.de5.net",
           "enabled": true
+        },
+        {
+          "id": "site_1774542445845_7m2wittzu",
+          "title": "LC的博客",
+          "href": "https://luchen022.github.io/",
+          "description": "我的博客",
+          "icon": "https://luchen022.github.io/img/favicon-16x16.png?v=2.2.7",
+          "enabled": true
         }
       ],
       "subCategories": []
