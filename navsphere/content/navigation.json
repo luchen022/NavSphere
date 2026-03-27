@@ -1583,6 +1583,14 @@
           "description": "我的博客",
           "icon": "https://luchen022.github.io/img/favicon-16x16.png?v=2.2.7",
           "enabled": true
+        },
+        {
+          "id": "site_1774614587028_jdnc44vns",
+          "title": "NodeCrypt",
+          "href": "https://chat.luchen.de5.net/",
+          "description": "NodeCrypt - True end-to-end encrypted chat system, no database, all messages encrypted locally, server only relays encrypted data, supports Cloudflare Workers, Docker, self-hosting and local development.",
+          "icon": "/assets/favicon_1774614570980.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
