@@ -1591,6 +1591,14 @@
           "description": "NodeCrypt - True end-to-end encrypted chat system, no database, all messages encrypted locally, server only relays encrypted data, supports Cloudflare Workers, Docker, self-hosting and local development.",
           "icon": "/assets/favicon_1774614570980.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1775002238863_dopy8ne00",
+          "title": "NextChat",
+          "href": "http://gpt.tieba.de5.net/",
+          "description": "Your personal ChatGPT Chat Bot.",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=gpt.tieba.de5.net",
+          "enabled": true
         }
       ],
       "subCategories": []
