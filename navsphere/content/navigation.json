@@ -1607,6 +1607,14 @@
           "description": "",
           "icon": "/assets/favicon_1775132748807.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1775235640766_d00s1fujy",
+          "title": "Files",
+          "href": "https://files.helps.de5.net/",
+          "description": "个人基于hi168搭建的网盘",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=files.helps.de5.net",
+          "enabled": true
         }
       ],
       "subCategories": []
