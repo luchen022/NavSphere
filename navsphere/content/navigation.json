@@ -1615,6 +1615,14 @@
           "description": "个人基于hi168搭建的网盘",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=files.helps.de5.net",
           "enabled": true
+        },
+        {
+          "id": "site_1775288960992_wsy1tii52",
+          "title": "XUGOU - 轻量化监控平台",
+          "href": "https://xugou.lca.de5.net/",
+          "description": "",
+          "icon": "/assets/favicon_1775288953257.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
