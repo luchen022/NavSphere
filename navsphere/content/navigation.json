@@ -1631,6 +1631,14 @@
           "description": "",
           "icon": "/assets/favicon_1775351602187.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775358507063_kwnr3pv7a",
+          "title": "cf用量监控",
+          "href": "https://monitor.rednote.de5.net/",
+          "description": "访问 monitor.rednote.de5.net",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=monitor.rednote.de5.net",
+          "enabled": true
         }
       ],
       "subCategories": []
