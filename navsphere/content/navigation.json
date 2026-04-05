@@ -1623,6 +1623,14 @@
           "description": "",
           "icon": "/assets/favicon_1775288953257.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1775351609134_1jueedxqz",
+          "title": "个人知识库 RAG 系统",
+          "href": "https://rag.lca.de5.net/",
+          "description": "",
+          "icon": "/assets/favicon_1775351602187.png",
+          "enabled": true
         }
       ],
       "subCategories": []
