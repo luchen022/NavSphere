@@ -1639,6 +1639,14 @@
           "description": "访问 monitor.rednote.de5.net",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=monitor.rednote.de5.net",
           "enabled": true
+        },
+        {
+          "id": "site_1776140828059_klz6uswur",
+          "title": "番茄钟",
+          "href": "https://todo.lca.de5.net/",
+          "description": "",
+          "icon": "https://todo.lca.de5.net/./icons/favicon.png",
+          "enabled": true
         }
       ],
       "subCategories": []
