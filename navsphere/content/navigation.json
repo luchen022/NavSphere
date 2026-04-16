@@ -44,6 +44,14 @@
               "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
               "icon": "/logo.png",
               "enabled": true
+            },
+            {
+              "id": "1776325760857",
+              "title": "NX AI · 聚合未来",
+              "href": "https://nxaiapp.com",
+              "description": "",
+              "icon": "/logo.png",
+              "enabled": true
             }
           ]
         },
