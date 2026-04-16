@@ -20,6 +20,14 @@
               "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
               "icon": "/assets/favicon_1776314189087.png",
               "enabled": true
+            },
+            {
+              "id": "1776314218648",
+              "title": "哈基米 API",
+              "href": "https://api.gemai.cc/",
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "icon": "/assets/favicon_1776314221942.png",
+              "enabled": true
             }
           ]
         },
