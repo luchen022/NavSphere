@@ -14,6 +14,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1776325828291",
+              "title": "禾维 AI | 检测 Claude Gemini OpenAI API 中转站真假",
+              "href": "https://hvoy.ai/",
+              "description": "免费检测 API 中转站是否存在协议不一致、知识异常、身份错配与签名缺失等问题，帮助你快速识别 Claude、OpenAI 等接口是否可靠。",
+              "icon": "/assets/favicon_1776325830674.svg",
+              "enabled": true
+            },
+            {
               "id": "1776314186364",
               "title": "New API",
               "href": "http://api.tieba.de5.net/",
@@ -51,14 +59,6 @@
               "href": "https://nxaiapp.com",
               "description": "",
               "icon": "/logo.png",
-              "enabled": true
-            },
-            {
-              "id": "1776325828291",
-              "title": "禾维 AI | 检测 Claude Gemini OpenAI API 中转站真假",
-              "href": "https://hvoy.ai/",
-              "description": "免费检测 API 中转站是否存在协议不一致、知识异常、身份错配与签名缺失等问题，帮助你快速识别 Claude、OpenAI 等接口是否可靠。",
-              "icon": "/assets/favicon_1776325830674.svg",
               "enabled": true
             }
           ]
