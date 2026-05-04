@@ -1212,7 +1212,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1777917097774_ikrjuerbs",
+          "title": "Github加速",
+          "href": "https://github.akams.cn/",
+          "description": "github加速",
+          "icon": "/assets/favicon_1777917073340.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
