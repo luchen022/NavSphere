@@ -1220,6 +1220,14 @@
           "description": "github加速",
           "icon": "/assets/favicon_1777917073340.png",
           "enabled": true
+        },
+        {
+          "id": "site_1778560492292_x09169ofj",
+          "title": "扫描全能王 - 文字图片扫描识别, PDF转Word, 文档格式转换, 在线编辑器",
+          "href": "https://www.camscanner.com/",
+          "description": "扫描全能王提供最智能的文档管理方案;手机、平板、电脑变身随身携带的扫描仪,文件库,随时随心编辑文档,文字识别,文档识别,图片扫描,在线PDF转器;pdf转word,word转pdf转,图片转pdf等服务,扫描,编辑,管理,快速同步,时时分享,有效沟通。",
+          "icon": "/assets/favicon_1778560485842.png",
+          "enabled": true
         }
       ],
       "subCategories": [
