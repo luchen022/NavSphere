@@ -1739,7 +1739,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1780114714403_mseqgbo53",
+          "title": "Xsijishe",
+          "href": "https://xsijishe.net/",
+          "description": "访问 xsijishe.net",
+          "icon": "/assets/favicon_1780114708186.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
