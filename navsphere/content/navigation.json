@@ -1755,6 +1755,14 @@
           "description": "",
           "icon": "/assets/favicon_1780121172059.png",
           "enabled": true
+        },
+        {
+          "id": "site_1780592543989_hd58kegsx",
+          "title": "机场导航|梯子导航|VPN导航站|免费节点|科学上网|翻墙导航|翻墙工具|节点导航|VPN",
+          "href": "https://vpnnav.github.io/",
+          "description": "",
+          "icon": "/assets/favicon_1780592534668.png",
+          "enabled": true
         }
       ],
       "subCategories": []
