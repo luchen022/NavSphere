@@ -1787,6 +1787,14 @@
           "description": "mihomo管理面板",
           "icon": "/assets/favicon_1781288181030.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1781288268309_04fhopkxj",
+          "title": "yacd",
+          "href": "https://yacd.haishan.me/",
+          "description": "Yet Another Clash Dashboard",
+          "icon": "/assets/favicon_1781288257798.png",
+          "enabled": true
         }
       ],
       "subCategories": []
