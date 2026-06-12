@@ -1779,6 +1779,14 @@
           "description": "超便宜低价高速机场",
           "icon": "/assets/favicon_1780642418435.png",
           "enabled": true
+        },
+        {
+          "id": "site_1781288200117_580l1mdns",
+          "title": "MetaCubeXD",
+          "href": "https://metacubexd.pages.dev",
+          "description": "mihomo管理面板",
+          "icon": "/assets/favicon_1781288181030.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
