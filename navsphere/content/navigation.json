@@ -1795,14 +1795,6 @@
           "description": "Yet Another Clash Dashboard",
           "icon": "/assets/favicon_1781288257798.png",
           "enabled": true
-        },
-        {
-          "id": "site_1781320983945_hiuv1yj1d",
-          "title": "yacd",
-          "href": "https://yacd.haishan.me/",
-          "description": "Yet Another Clash Dashboard",
-          "icon": "/assets/favicon_1781320978107.png",
-          "enabled": true
         }
       ],
       "subCategories": []
