@@ -1797,7 +1797,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5b90a01c-1231-40b9-9699-e2bddf66d8e7",
+          "title": "asmr",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
