@@ -1765,6 +1765,14 @@
           "enabled": true
         },
         {
+          "id": "site_1781288268309_04fhopkxj",
+          "title": "yacd",
+          "href": "https://yacd.haishan.me/",
+          "description": "Yet Another Clash Dashboard",
+          "icon": "/assets/favicon_1781288257798.png",
+          "enabled": true
+        },
+        {
           "id": "site_1780592543989_hd58kegsx",
           "title": "机场导航|梯子导航|VPN导航站|免费节点|科学上网|翻墙导航|翻墙工具|节点导航|VPN",
           "href": "https://vpnnav.github.io/",
@@ -1786,14 +1794,6 @@
           "href": "赔钱机场.com",
           "description": "超便宜低价高速机场",
           "icon": "/assets/favicon_1780642418435.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1781288268309_04fhopkxj",
-          "title": "yacd",
-          "href": "https://yacd.haishan.me/",
-          "description": "Yet Another Clash Dashboard",
-          "icon": "/assets/favicon_1781288257798.png",
           "enabled": true
         }
       ],
