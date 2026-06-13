@@ -1804,7 +1804,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1781321188397_9bi4rrkzr",
+              "title": "ASMR MOON - 免费音声资源站 | Free ASMR Audio Library",
+              "href": "https://asmrmoon.com/",
+              "description": "ASMR MOON 是一个免费音声资源站，支持在线播放，无需登录，自由访问，适合助眠与放松。ASMR MOON is a free ASMR(Whisper) audio library for immersive sleep, focus, and relaxation. No login, no ads.",
+              "icon": "/assets/favicon_1781321178453.svg",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
