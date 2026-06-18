@@ -1749,14 +1749,6 @@
           "enabled": true
         },
         {
-          "id": "site_1780121178743_l1ref7f70",
-          "title": "98",
-          "href": "https://sehuatang.net/",
-          "description": "",
-          "icon": "/assets/favicon_1780121172059.png",
-          "enabled": true
-        },
-        {
           "id": "site_1781288200117_580l1mdns",
           "title": "MetaCubeXD",
           "href": "https://metacubexd.pages.dev",
@@ -1821,7 +1813,16 @@
           "icon": "Files",
           "description": "瑟瑟",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1780121178743_l1ref7f70",
+              "title": "98",
+              "href": "https://sehuatang.net/",
+              "description": "",
+              "icon": "/assets/favicon_1780121172059.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
