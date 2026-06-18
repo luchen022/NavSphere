@@ -1814,6 +1814,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "235f50e0-d810-430e-be78-44e0879c6cd1",
+          "title": "sese",
+          "icon": "Files",
+          "description": "瑟瑟",
+          "enabled": true,
+          "items": []
         }
       ]
     }
