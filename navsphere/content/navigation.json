@@ -1741,14 +1741,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1780114714403_mseqgbo53",
-          "title": "Xsijishe",
-          "href": "https://xsijishe.net/",
-          "description": "访问 xsijishe.net",
-          "icon": "/assets/favicon_1780114708186.png",
-          "enabled": true
-        },
-        {
           "id": "site_1781288200117_580l1mdns",
           "title": "MetaCubeXD",
           "href": "https://metacubexd.pages.dev",
@@ -1820,6 +1812,14 @@
               "href": "https://sehuatang.net/",
               "description": "",
               "icon": "/assets/favicon_1780121172059.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1780114714403_mseqgbo53",
+              "title": "Xsijishe",
+              "href": "https://xsijishe.net/",
+              "description": "访问 xsijishe.net",
+              "icon": "/assets/favicon_1780114708186.png",
               "enabled": true
             }
           ]
